@@ -1,4 +1,4 @@
-# moms_recipes
+# Mom's Recipes
 Southern and Cajun recipes from my mom
 
 * [Pimento cheese](https://github.com/mcplanner/moms_recipes/blob/master/pimento_cheese)
